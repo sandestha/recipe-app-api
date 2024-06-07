@@ -1,2 +1,2 @@
 # recipie-app-api
-Recipie API Project
+Recipe API Project
